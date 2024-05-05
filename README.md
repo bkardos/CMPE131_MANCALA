@@ -1,6 +1,6 @@
 SJSU CMPE 131-01 (Software Engineering I)
 FINAL PROJECT (MANCALA)
-© 2024 TEAM SAIYANS
+©2024 TEAM SAIYANS
 =========================================
 
 Welcome to our final project...you have come to the right place!! 
