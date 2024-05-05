@@ -1,11 +1,11 @@
-=============================================
-= SJSU CMPE 131-01 (Software Engineering I) =
-=          FINAL PROJECT (MANCALA)          =
-=           © 2024 TEAM SAIYANS             =
-=============================================
+=========================================
+SJSU CMPE 131-01 (Software Engineering I)
+FINAL PROJECT (MANCALA)
+© 2024 TEAM SAIYANS
+=========================================
 
 Welcome to our final project...you have come to the right place!! 
-Would you like to play a game?![image](https://github.com/bkardos/CMPE131_MANCALA/assets/33300248/123b8c5a-379e-4de7-8d4b-e09e061a0ada)
+Would you like to play a game? ![image](https://github.com/bkardos/CMPE131_MANCALA/assets/33300248/123b8c5a-379e-4de7-8d4b-e09e061a0ada)![image](https://github.com/bkardos/CMPE131_MANCALA/assets/33300248/123b8c5a-379e-4de7-8d4b-e09e061a0ada)
 
 
 Players #: "2"
